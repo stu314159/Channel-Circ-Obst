@@ -1,0 +1,1 @@
+LBM simulation of 3D channel with a circular obstacle.  This code decomposes the domain for MPI with GPU acceleration; one GPU per MPI process.  
